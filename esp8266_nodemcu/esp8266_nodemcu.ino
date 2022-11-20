@@ -13,7 +13,7 @@
 #define WIFI_PASSWORD "XX_XX_XX"
 
 /* If work with RTDB, define the RTDB URL and database secret */
-#define DATABASE_URL "https://" + "XX_XX_XX" + ".firebaseio.com/" // <databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
+#define DATABASE_URL "https://XX_XX_XX.firebaseio.com/" // <databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 #define DATABASE_SECRET "XX_XX_XX"
 
 /* Define DHT22 sensor & pin */
